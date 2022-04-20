@@ -50,7 +50,7 @@ CONTACT WITH <a href="https://github.com/Savagefundzokenwa"><b>MARK-CORNEL </a> 
 </p>
 </br>
 <p align="center">
-      ZMBF TOOL BY MARK TECHNOLOGY
+      Ultimate 🥏 TOOL BY OKENWA BRIGHT
 </p>
 
 #### INSTALL TOOL ON TERMUX
@@ -61,13 +61,13 @@ $ pip2 install mechanize lolcat
 $ pip2 install requests bs4
 $ pip2 install futures
 $ apt install git
-$ git clone https://github.com/GUPTA-SHAKEL/ZMBF.git
+$ git clone https://github.com/Savagefundzokenwa/ULTIMATE.git
 ```
 #### RUN SCRIPT
 ```python2
-$ cd ZMBF
+$ cd ULTIMATE
 $ git pull
-$ python2 mark.so
+$ python Ultimate.py
 ```
 #### :closed_lock_with_key: NEED APPROVAL ⁉️
 
