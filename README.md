@@ -1,8 +1,4 @@
-<img src="https://github.com/Savagefundzokenwa/GUPTA/blob/main/IMAGE/GUPTA-SHAKEL.gif" width="120" height="120" align="left">
-<center>
-  
-  
- 
+
    ##  MY SOCIAL MEDIA : <br>
 
 <a href="https://instagram.com/savage_fundz" target="_blank"><img src="https://github.com/Okenwa24/GUPTA/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
@@ -13,9 +9,9 @@
   
 ____Programming And Memes____
 
-CONTACT WITH <a href="https://github.com/Savagefundzokenwa"><b>MARK-CORNEL </a> </br><br>
+CONTACT WITH <a href="https://github.com/Savagefundzokenwa"><b>Savagefundzokenwa </a> </br><br>
 <img src="https://github.com/Savagefundzokenwa/GUPTA/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
-<p>ngozic328@gmail.com</p>  <br> <br> 
+<p>iisavage684@gmail.com</p>  <br> <br> 
 
 
 <a href="https://github.com/Savagefundzokenwa/followers">
@@ -55,19 +51,19 @@ CONTACT WITH <a href="https://github.com/Savagefundzokenwa"><b>MARK-CORNEL </a> 
 
 #### INSTALL TOOL ON TERMUX
 ```python
-$ apt update && apt upgrade
-$ apt install python2
-$ pip2 install mechanize lolcat
-$ pip2 install requests bs4
-$ pip2 install futures
-$ apt install git
-$ git clone https://github.com/Savagefundzokenwa/ULTIMATE.git
+• apt update && apt upgrade
+• apt install python2
+• pip2 install mechanize lolcat
+• pip2 install requests bs4
+• pip2 install futures
+• apt install git
+• git clone https://github.com/Savagefundzokenwa/ULTIMATE.git
 ```
 #### RUN SCRIPT
 ```python2
-$ cd ULTIMATE
-$ git pull
-$ python Ultimate.py
+• cd ULTIMATE
+• git pull
+• python Ultimate.py
 ```
 #### :closed_lock_with_key: NEED APPROVAL ⁉️
 
